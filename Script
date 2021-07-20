@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfyz13/GalaxyHub/main/Galaxy%20Hub.txt", true))()
